@@ -2,15 +2,16 @@
 
 <!--
 **luigus/luigus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+✨ I'm always looking for new knowledge.
+
+🔭 I’m currently working on backend Python projects using Django and Flask web frameworks.
+
+🌱 I’m currently learning frontend projects using javascript with web frameworks like React and Vue.js.
+
+⚡ Fun fact: I can resolve a Rubik Cube in 2 min.
+
+📫 How to reach me:  👉 luigus at gmail.com
+
+☕️  Wanna chat?  👉 luigus.consani at Skype
