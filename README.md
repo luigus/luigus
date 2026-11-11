@@ -18,7 +18,8 @@ Senior AI & Backend Engineer with 10+ years of experience building backend syste
 - ETL pipelines with Apache Airflow and Kafka
 🌱 **Learning now:** LLM evaluation (how to test whether a RAG answer is actually right) and AI agent patterns.
  
-🎓 BSc in Mathematics (UFMG) and MSc in Applied Mathematical and Computational Modelling (CEFET-MG).
+🎓 BSc in Mathematics (UFMG) 
+🎓 MSc in Applied Mathematical and Computational Modelling (CEFET-MG).
  
 ### 🛠️ Stack
  
